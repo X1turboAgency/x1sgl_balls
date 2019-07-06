@@ -1,0 +1,7 @@
+# DrawType Table.
+# DrawType, Plane, SizeY
+
+00h, B, 16
+08h, BR, 16
+10h, BRG, 16
+
